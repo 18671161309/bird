@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pdf.wps.cn.myapplication",
+    "sha256_cert_fingerprints":
+    ["36:0B:D7:0C:0C:AE:73:7C:A5:9C:02:89:F0:2C:26:95:76:F7:CF:A4:07:FA:D8:B6:3C:78:6C:41:3C:D5:69:25"]
+  }
+}]
